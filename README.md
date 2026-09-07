@@ -10,6 +10,8 @@ Building scalable web applications, AI-powered solutions, and software that solv
 
 </div>
 
+---
+
 ## 📌 Executive Summary
 
 I am a motivated **Computer Science Engineering student** passionate about building practical software solutions using **Full Stack Development, Artificial Intelligence, Machine Learning, Natural Language Processing, Computer Vision, and Blockchain**.
@@ -19,6 +21,7 @@ I enjoy transforming real-world problems into scalable and intelligent applicati
 Currently, I am focused on strengthening my software development skills, exploring emerging AI technologies, and building projects that solve meaningful real-world problems.
 
 ---
+
 # 💻 Projects
 
 ## ✈️ Automated Aerial Object Detection System
@@ -90,6 +93,7 @@ Industrial AI platform for storing, searching, and retrieving factory knowledge.
 Deep learning system for detecting Sleep Apnea from EEG signals.
 
 **Focus:** `EEG` `Deep Learning` `CNN` `BiLSTM` `Attention`
+
 ---
 
 ## 🛠️ Technical Skills
@@ -131,8 +135,6 @@ Deep learning system for detecting Sleep Apnea from EEG signals.
 
 ---
 
----
-
 ## 📊 What I Build
 
 ```text
@@ -147,51 +149,3 @@ Full Stack / AI Solution
 Testing & Evaluation
         ↓
 Practical Application
-```
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=VivekhaShreeK&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-
-# 🧩 LeetCode Analytics
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/VIVEKHASHREEK?theme=dark)](https://leetcode.com/u/VIVEKHASHREEK/)
-
-</div>
-```
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/VivekhaShreeK">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vivekha-shree-karthikeyan-50b866271">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:vivekhashree.k@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/VIVEKHASHREEK/">
-  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://vivekhaportfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-⭐ *I believe in learning by building — turning ideas into working solutions, one project at a time.*
