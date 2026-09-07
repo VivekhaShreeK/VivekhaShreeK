@@ -19,162 +19,77 @@ I enjoy transforming real-world problems into scalable and intelligent applicati
 Currently, I am focused on strengthening my software development skills, exploring emerging AI technologies, and building projects that solve meaningful real-world problems.
 
 ---
+# 💻 Projects
 
-## 🚀 Projects
+## ✈️ Automated Aerial Object Detection System
 
-### ✈️ Automated Aerial Object Detection System
+AI-based system for detecting objects in aerial images and videos.
 
-An AI-powered computer vision system designed to automatically detect and identify objects from aerial imagery.
-
-**Key Features**
-
-* Automated object detection from aerial images/video
-* Computer vision-based analysis
-* Detection and classification of multiple objects
-* Designed for applications involving aerial surveillance and monitoring
-
-**Domain:** Artificial Intelligence | Computer Vision | Deep Learning
+**Focus:** `Computer Vision` `Deep Learning` `Object Detection`
 
 ---
 
-### 🧬 Curanet
+## 🧬 Curanet
 
-A technology-driven healthcare application designed to provide an intelligent platform for managing and accessing healthcare-related information.
+Healthcare platform designed to provide accessible and intelligent healthcare services.
 
-**Key Features**
-
-* Healthcare-focused digital platform
-* Structured information management
-* User-friendly web interface
-* Designed to improve accessibility and efficiency in healthcare workflows
-
-**Domain:** Healthcare Technology | Web Development | AI
+**Focus:** `Healthcare` `AI` `Web Development`
 
 ---
 
-### 🏙️ CivicPulse
+## 🏙️ CivicPulse
 
-A civic-tech platform designed to help citizens report and track public issues while improving communication between citizens and authorities.
+Platform for reporting, tracking, and managing civic issues.
 
-**Key Features**
-
-* Civic issue reporting
-* Issue tracking and management
-* Location-based reporting
-* Dashboard-oriented monitoring
-* Designed to improve transparency and community participation
-
-**Domain:** Civic Technology | Full Stack Development
+**Focus:** `Civic Tech` `Full Stack Development`
 
 ---
 
-### 🔗 SnipLink
+## 🔗 SnipLink
 
-A full-stack URL shortening and link management platform.
+URL shortening platform with custom links, QR codes, and click analytics.
 
-**Tech Stack:** `React.js` `Node.js` `Express.js` `PostgreSQL` `JWT` `QR Code API`
-
-**Key Features**
-
-* Custom short links
-* QR code generation
-* Real-time click analytics
-* Secure authentication
-* Efficient link management
-
-Built as a practical full-stack application for creating, managing, and monitoring shortened URLs.
+**Focus:** `React.js` `Node.js` `Express.js` `PostgreSQL` `JWT`
 
 ---
 
-### 📧 Automated Email Ticket Classifier
+## 📧 Automated Email Ticket Classifier
 
-An intelligent automation system that analyzes incoming emails and automatically classifies them into appropriate support or service ticket categories.
+AI system that automatically classifies incoming emails into relevant support ticket categories.
 
-**Key Features**
-
-* Automated email processing
-* Text-based classification
-* Ticket categorization
-* Reduces manual ticket sorting
-* Helps improve support workflow efficiency
-
-**Domain:** Natural Language Processing | Machine Learning | Automation
+**Focus:** `NLP` `Machine Learning` `Automation`
 
 ---
 
-### 🕳️ PotholeAI
+## 🕳️ PotholeAI
 
-An AI-based road damage detection system that identifies potholes and provides useful information for road maintenance.
+AI-powered system for detecting potholes, classifying their severity, and generating reports.
 
-**Tech Stack:** `Python` `YOLOv8` `OpenCV` `Streamlit` `SQLite`
-
-**Key Features**
-
-* Real-time pothole detection
-* Road damage identification
-* Severity classification
-* Geo-tagging of detected locations
-* Automated report generation
-
-The system combines computer vision and AI to support smarter road-condition monitoring.
+**Focus:** `Python` `YOLOv8` `OpenCV` `Streamlit` `SQLite`
 
 ---
 
-### 💊 PharmaTrace AI
+## 💊 PharmaTrace AI
 
-An intelligent pharmaceutical traceability platform designed to improve medicine tracking, verification, and supply-chain transparency.
+AI-powered platform for medicine tracking, verification, and pharmaceutical information management.
 
-**Key Features**
-
-* Medicine traceability
-* Drug information management
-* AI-powered information retrieval
-* Supply-chain transparency
-* Designed to help identify and prevent counterfeit medicines
-
-**Domain:** Artificial Intelligence | Healthcare | Blockchain | Supply Chain
+**Focus:** `AI` `Healthcare` `Blockchain`
 
 ---
 
-### 🏭 INDUS AI — Living Factory Brain
+## 🏭 INDUS AI — Living Factory Brain
 
-An industrial AI knowledge and cognitive memory platform designed to preserve, search, connect, and improve organizational knowledge.
+Industrial AI platform for storing, searching, and retrieving factory knowledge.
 
-**Key Features**
-
-* Industrial knowledge management
-* Document and knowledge retrieval
-* Maintenance and incident knowledge
-* SOP and compliance information management
-* AI-powered knowledge search
-* Designed to preserve organizational expertise
-
-**Domain:** Generative AI | NLP | RAG | Industrial AI
+**Focus:** `Generative AI` `NLP` `RAG` `Industrial AI`
 
 ---
 
-### 🧠 Sleep Apnea Detection Using EEG
+## 🧠 Sleep Apnea Detection Using EEG
 
-An intelligent deep learning framework for automated **Sleep Apnea detection using EEG signals**.
+Deep learning system for detecting Sleep Apnea from EEG signals.
 
-**Architecture:**
-
-`EEG Signal → EEG-HNAT → VMD → CNN → BiLSTM → Multi-Head Attention → Classification`
-
-**Key Features**
-
-* EEG signal preprocessing
-* Adaptive wavelet-based signal enhancement
-* Hybrid noise removal
-* Variational Mode Decomposition (VMD)
-* CNN-based feature extraction
-* BiLSTM-based temporal pattern learning
-* Multi-Head Attention for important feature representation
-* Sleep Apnea / Non-Sleep Apnea classification
-* Performance evaluation using Accuracy, Precision, Recall, F1-Score and AUC
-
-**Domain:** Deep Learning | Biomedical Signal Processing | EEG | Healthcare AI
-
+**Focus:** `EEG` `Deep Learning` `CNN` `BiLSTM` `Attention`
 ---
 
 ## 🛠️ Technical Skills
@@ -216,24 +131,6 @@ An intelligent deep learning framework for automated **Sleep Apnea detection usi
 
 ---
 
-## 💼 Experience
-
-### Software Developer Intern — MIST Software Solutions Pvt. Ltd.
-
-During my internship, I gained practical experience in **full-stack web development**, including responsive web page development, HTML, CSS, Bootstrap, JavaScript, MySQL, and backend development concepts.
-
-This experience strengthened my understanding of real-world website development, responsive design, and end-to-end application workflows.
-
----
-
-## 🎓 Education
-
-**Bachelor of Engineering — Computer Science and Engineering**
-Dr. N.G.P. Institute of Technology | 2023–2027
-
-**CGPA:** 8.15 — 6th Semester
-**Honors:** Specialization in Blockchain Technology
-
 ---
 
 ## 📊 What I Build
@@ -251,36 +148,55 @@ Testing & Evaluation
         ↓
 Practical Application
 ```
-
-I am particularly interested in projects where **software engineering + AI** can be combined to create useful and scalable solutions.
-
----
-
-## 🌱 Currently Exploring
-
-* Advanced Full Stack Development
-* Generative AI
-* Large Language Models
-* RAG Systems
-* NLP Applications
-* Computer Vision
-* Machine Learning
-* AI-powered Automation
-* Scalable Backend Systems
-
----
-## 🌐 Connect With Me
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/vivekha-shree-karthikeyan-50b866271">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://github-readme-stats.vercel.app/api?username=VivekhaShreeK&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekhaShreeK&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=VivekhaShreeK&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+# 🧩 LeetCode Analytics
+
+<div align="center">
+
+<img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=VIVEKHASHREEK" />
+
+</div>
+---
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/VivekhaShreeK">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:vivekhashree.k@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://vivekhaportfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/VIVEKHASHREEK/">
+  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
