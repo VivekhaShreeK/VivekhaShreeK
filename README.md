@@ -269,12 +269,21 @@ I am particularly interested in projects where **software engineering + AI** can
 * Scalable Backend Systems
 
 ---
+## 🌐 Connect With Me
 
-## 📫 Connect With Me
+<div align="center">
 
-**GitHub:** [VivekhaShreeK](https://github.com/VivekhaShreeK)
+<a href="https://www.linkedin.com/in/vivekha-shree-karthikeyan-50b866271">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:vivekhashree.k@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://vivekhaportfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-**Portfolio:** Coming Soon
+</div>
 
 ---
 
