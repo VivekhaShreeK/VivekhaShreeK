@@ -1,6 +1,14 @@
-# Hi, I'm Vivekha Shree K 👋
+<div align="center">
 
-### Computer Science Engineering Student | Full Stack Developer | AI & ML Enthusiast
+# Hi 👋, I'm Vivekha Shree K
+
+### Full Stack Developer • AI Enthusiast • Problem Solver
+
+Building scalable web applications, AI-powered solutions, and software that solves real-world problems.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+Developer;NLP+Enthusiast;Building+Real-World+Solutions)](https://git.io/typing-svg)
+
+</div>
 
 ## 📌 Executive Summary
 
