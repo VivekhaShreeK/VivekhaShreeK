@@ -148,15 +148,6 @@ Testing & Evaluation
         ↓
 Practical Application
 ```
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VivekhaShreeK&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekhaShreeK&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
 
 ## 🔥 GitHub Streak
 
@@ -174,7 +165,7 @@ Practical Application
 [![LeetCode Stats](https://leetcard.jacoblin.cool/VIVEKHASHREEK?theme=dark)](https://leetcode.com/u/VIVEKHASHREEK/)
 
 </div>
----
+```
 # 🌐 Connect With Me
 
 <div align="center">
