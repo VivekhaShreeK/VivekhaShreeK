@@ -148,19 +148,21 @@ Practical Application
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=VivekhaShreeK&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=VivekhaShreeK&theme=tokyonight&hide_border=true" />
 
 </div>
 
+---
 
 # 🧩 LeetCode Analytics
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/VIVEKHASHREEK?theme=dark)](https://leetcode.com/u/VIVEKHASHREEK/)
+<a href="https://leetcode.com/u/VIVEKHASHREEK/">
+<img src="https://leetcard.jacoblin.cool/VIVEKHASHREEK?theme=dark" />
+</a>
 
 </div>
-
 ---
 
 # 🌐 Connect With Me
