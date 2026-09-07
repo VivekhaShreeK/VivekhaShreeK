@@ -171,7 +171,7 @@ Practical Application
 
 <div align="center">
 
-<img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=VIVEKHASHREEK" />
+[![LeetCode Stats](https://leetcard.jacoblin.cool/VIVEKHASHREEK?theme=dark)](https://leetcode.com/u/VIVEKHASHREEK/)
 
 </div>
 ---
