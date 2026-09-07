@@ -12,11 +12,7 @@ Building scalable web applications, AI-powered solutions, and software that solv
 
 ## 📌 Executive Summary
 
-I am a motivated **Computer Science Engineering student** passionate about building practical software solutions using **Full Stack Development, Artificial Intelligence, Machine Learning, Natural Language Processing, Computer Vision, and Blockchain**.
-
-I enjoy transforming real-world problems into scalable and intelligent applications by combining modern web technologies with AI-driven solutions. My project experience spans **web applications, automation, computer vision, NLP, blockchain, intelligent classification systems, and biomedical signal analysis**.
-
-Currently, I am focused on strengthening my software development skills, exploring emerging AI technologies, and building projects that solve meaningful real-world problems.
+I’m a Computer Science Engineering student passionate about Full Stack Development, AI, ML, NLP, Computer Vision, and Blockchain. I enjoy building practical, intelligent solutions to real-world problems and continuously improving my software development skills.
 
 ---
 # 💻 Projects
@@ -90,6 +86,7 @@ Industrial AI platform for storing, searching, and retrieving factory knowledge.
 Deep learning system for detecting Sleep Apnea from EEG signals.
 
 **Focus:** `EEG` `Deep Learning` `CNN` `BiLSTM` `Attention`
+
 ---
 
 ## 🛠️ Technical Skills
@@ -128,9 +125,7 @@ Deep learning system for detecting Sleep Apnea from EEG signals.
 * Generative AI
 * Data Analytics
 * Blockchain
-
----
-
+  
 ---
 
 ## 📊 What I Build
@@ -165,7 +160,9 @@ Practical Application
 [![LeetCode Stats](https://leetcard.jacoblin.cool/VIVEKHASHREEK?theme=dark)](https://leetcode.com/u/VIVEKHASHREEK/)
 
 </div>
-```
+
+---
+
 # 🌐 Connect With Me
 
 <div align="center">
